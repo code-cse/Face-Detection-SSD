@@ -25,8 +25,11 @@ Single class object detection models will need less learnable features. Less par
 
 ![alt text](images/r1.png)
 ![alt text](images/r2.png)
-![alt text](result/f21.png)![alt text](result/f22.png)![alt text](result/f23.png)![alt text](result/f24.png)
-![alt text](result/f11.png)![alt text](result/f12.png)![alt text](result/f13.png)![alt text](result/f14.png)
+
+![alt text](result/f21.jpg)![alt text](result/f22.jpg)![alt text](result/f23.jpg)![alt text](result/f24.jpg)
+
+![alt text](result/f11.jpg)![alt text](result/f12.jpg)![alt text](result/f13.jpg)![alt text](result/f14.jpg)
+
 ![alt text](images/r3.png)
 
 
