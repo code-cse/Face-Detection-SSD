@@ -25,12 +25,14 @@ Single class object detection models will need less learnable features. Less par
 
 ![alt text](images/r1.png)
 ![alt text](images/r2.png)
-
-![alt text](result/f21.jpg)![alt text](result/f22.jpg)![alt text](result/f23.jpg)![alt text](result/f24.jpg)
-
-![alt text](result/f11.jpg)![alt text](result/f12.jpg)![alt text](result/f13.jpg)![alt text](result/f14.jpg)
-
 ![alt text](images/r3.png)
+
+
+##### Cropped faces :
+![alt text](result/f21.jpg)	 	![alt text](result/f22.jpg)		![alt text](result/f23.jpg)		![alt text](result/f24.jpg)
+
+![alt text](result/f11.jpg)		![alt text](result/f12.jpg)		![alt text](result/f13.jpg)		![alt text](result/f14.jpg)
+
 
 
 #### Research Paper Reference for this repository:
