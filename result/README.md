@@ -5,13 +5,13 @@ This repository contains the code for face detection using SSD. This repository 
 
 #### Result of face detection SSD :
 
-![alt text](images/r1.png)
-![alt text](images/r2.png)
-![alt text](images/r3.png)
+![alt text](../images/r1.png)
+![alt text](../images/r2.png)
+![alt text](../images/r3.png)
 
 
 #### Cropped faces :
-![alt text](result/f21.jpg)	 	![alt text](result/f22.jpg)		![alt text](result/f23.jpg)		![alt text](result/f24.jpg)
+![alt text](../result/f21.jpg)	 	![alt text](../result/f22.jpg)		![alt text](../result/f23.jpg)		![alt text](../result/f24.jpg)
 
-![alt text](result/f11.jpg)		![alt text](result/f12.jpg)		![alt text](result/f13.jpg)		![alt text](result/f14.jpg)
+![alt text](../result/f11.jpg)		![alt text](../result/f12.jpg)		![alt text](../result/f13.jpg)		![alt text](../result/f14.jpg)
 
