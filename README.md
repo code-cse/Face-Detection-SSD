@@ -14,6 +14,8 @@ This repository contains the code for face detection using SSD. This repository 
 #### Single Shot Detector - SSD :
 Single-shot MultiBox Detector is a one-stage object detection algorithm. This means that, in contrast to two-stage models, SSDs do not need an initial object proposals generation step. This makes it, usually, faster and more efficient than two-stage approaches such as Faster R-CNN, although it sacrifices performance for detection of small objects to gain speed.
 
+#### [RESULTS](result):
+
 ##### Architecture of SSD :
 Single class object detection models will need less learnable features. Less parameters mean that the network will be smaller. Smaller networks run faster because it requires less computations.
 
