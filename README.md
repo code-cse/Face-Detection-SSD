@@ -20,12 +20,15 @@ Single-shot MultiBox Detector is a one-stage object detection algorithm. This me
 
 ![alt text](images/arch1.png)
 
-##### Result of SSD :
+##### Result of face detection SSD :
 
-![alt text](images/ssd.png)
+![alt text](images/r1.png)
+![alt text](images/r2.png)
+![alt text](images/r3.png)
 
 #### Research Paper Reference for this repository:
 
 1. [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325)
 2. [Blogs links for SSD and images reference](https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11)
+3. [Blogs links for SSD and images reference](https://towardsdatascience.com/faced-cpu-real-time-face-detection-using-deep-learning-1488681c1602)
 
