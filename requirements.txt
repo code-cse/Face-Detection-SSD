@@ -2,3 +2,5 @@ tensorflow
 opencv-python
 numpy
 Pillow
+opencv-contrib-python
+imutils
