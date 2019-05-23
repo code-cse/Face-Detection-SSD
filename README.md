@@ -14,6 +14,15 @@ This repository contains the code for face detection using SSD. This repository 
 #### Single Shot Detector - SSD :
 Single-shot MultiBox Detector is a one-stage object detection algorithm. This means that, in contrast to two-stage models, SSDs do not need an initial object proposals generation step. This makes it, usually, faster and more efficient than two-stage approaches such as Faster R-CNN, although it sacrifices performance for detection of small objects to gain speed.
 
+#### Require packages:
+
+`virtualenv --python=python3 env_fds`
+
+`source env_fds/bin/activate`
+
+`pip install -r requirements.txt`
+
+
 #### [RESULTS](result):
 
 ##### Architecture of SSD :
