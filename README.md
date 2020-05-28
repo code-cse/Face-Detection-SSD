@@ -1,6 +1,6 @@
 
 ## Face-Detection-SSD
-This repository contains the code for face detection using SSD. This repository detect the face from video and cropped the face. The cropped face will save in given folder name.
+This repository contains the code for face detection using SSD. This repository detect the face from video and cropped the face. The cropped face will save in the given folder name.
 
 ### Project Structure
 ```
