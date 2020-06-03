@@ -52,3 +52,4 @@ Single class object detection models will need less learnable features. Less par
 2. [Blogs links for SSD and images reference](https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11)
 3. [Blogs links for SSD and images reference](https://towardsdatascience.com/faced-cpu-real-time-face-detection-using-deep-learning-1488681c1602)
 
+### TODO
